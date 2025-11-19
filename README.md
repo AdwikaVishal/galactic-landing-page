@@ -10,6 +10,7 @@ This project fuses:
 ✨ Orbit animations & starfields
 ✨ Neon gradients + pixel aesthetics
 All wrapped inside a modern, responsive Next.js + TailwindCSS layout.
+
 🚀 Project Overview
 Galactic Arcade is a complete visual redesign experiment where I transformed a basic landing page into an immersive sci-fi pixel-art universe.
 The theme is a blend of:
@@ -19,38 +20,45 @@ Starfield backgrounds with parallax motion
 Smooth Framer Motion interactions
 Neon futuristic color palette
 The result is a landing page that feels like a sci-fi game intro screen—alive, animated, and unforgettable.
+
 🎨 Features
 🌠 Cosmic Visual Style
 Cosmic gradients (purple → blue → neon pink)
 Pixel-art planets, stars, comets, neon asteroids
 Floating geometric retro shapes
 Soft CRT scanline overlay for a classic arcade feel
+
 🪐 Hero Section
 Giant pixel-art planet centerpiece
 Orbiting neon icons (Framer Motion)
 Twinkling 8-bit starfield
 Retro glow headline & animated CTA
+
 ⚡ Animations
 Planetary orbits
 Pixel bounce effects
 Parallax scrolling universe
 Particle drift background
 “INSERT COIN” style CTA hover flicker
+
 🎮 UI Components
 Neon pixel navbar
 Cosmic feature cards with pixel borders
 Retro orbiting testimonials carousel
 Pricing table represented as “Planets”
 Footer with pixel mountains + stars
+
 🌓 Dark Mode First
 Default dark cosmic theme
 Optional light mode resembling daytime on a pixel planet
+
 🛠️ Tech Stack
 Next.js (App Router)
 TailwindCSS
 TypeScript
 Framer Motion
 Custom Pixel Art + SVG Shapes
+
 📦 Installation & Running Locally
 git clone <your-repo-url>
 cd galactic-arcade
@@ -58,6 +66,7 @@ npm install
 npm run dev
 Now open in your browser:
 👉 http://localhost:3000
+
 💡 Why This Project?
 This project embodies the spirit of the Open Innovation Sprint:
 🔥 Creative
