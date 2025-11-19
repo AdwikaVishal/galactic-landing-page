@@ -1,13 +1,12 @@
 🌌🎮 Galactic Arcade Landing Page
 A Retro Arcade × Cosmic Universe UI Experience
 Welcome to Galactic Arcade, a uniquely designed landing page built for the Contribution Sprint – Open Innovation Challenge.
-
 This project fuses:
 ✨ Retro 8-bit arcade vibes
 ✨ Cosmic planetary visuals
 ✨ Orbit animations & starfields
 ✨ Neon gradients + pixel aesthetics
-All wrapped inside a modern, responsive, Next.js + TailwindCSS layout.
+All wrapped inside a modern, responsive Next.js + TailwindCSS layout.
 🚀 Project Overview
 Galactic Arcade is a complete visual redesign experiment where I transformed a basic landing page into an immersive sci-fi pixel-art universe.
 The theme is a blend of:
@@ -42,7 +41,7 @@ Pricing table represented as “Planets”
 Footer with pixel mountains + stars
 🌓 Dark Mode First
 Default dark cosmic theme
-Optional light mode looking like “daytime on a pixel planet”
+Optional light mode resembling daytime on a pixel planet
 🛠️ Tech Stack
 Next.js (App Router)
 TailwindCSS
@@ -50,19 +49,17 @@ TypeScript
 Framer Motion
 Custom Pixel Art + SVG Shapes
 📦 Installation & Running Locally
-Clone your fork and install dependencies:
 git clone <your-repo-url>
 cd galactic-arcade
 npm install
 npm run dev
-Open in browser:
+Now open in your browser:
 👉 http://localhost:3000
-
 💡 Why This Project?
-This project embraces the spirit of the Open Innovation Sprint:
+This project embodies the spirit of the Open Innovation Sprint:
 🔥 Creative
 🌌 Visually original
 🎮 Fun + futuristic
 ✨ Strong design + animation
 🧠 A complete, polished concept
-It’s both an artistic UI redesign and a technical showcase of Tailwind + animation mastery.
+It’s both an artistic UI redesign and a technical showcase of modern frontend design, animation, and Tailwind mastery.
