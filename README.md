@@ -1,6 +1,9 @@
 🌌🎮 Galactic Arcade Landing Page
+
 A Retro Arcade × Cosmic Universe UI Experience
+
 Welcome to Galactic Arcade, a uniquely designed landing page built for the Contribution Sprint – Open Innovation Challenge.
+
 This project fuses:
 ✨ Retro 8-bit arcade vibes
 ✨ Cosmic planetary visuals
